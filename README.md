@@ -1,5 +1,5 @@
 # Random Password Generator 
-#--Python Terminal Based App
+## Python Terminal Based App
 
 
 ## Description
