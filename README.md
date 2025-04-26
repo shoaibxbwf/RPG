@@ -1,4 +1,4 @@
-# Random Password Generator 
+# Random Password Generator🔑
 ## Python Terminal Based App
 
 
@@ -11,7 +11,7 @@ A Python-based **command-line tool** that generates secure passwords based on us
 - 📋 Option to copy the password to the clipboard.
 - Command-line interface for quick and easy use.
 
-## Install dependencies (for clipboard support):
+## Install dependencies (for clipboard support)
 Code : pip install pyperclip
 
 ## Requirements
